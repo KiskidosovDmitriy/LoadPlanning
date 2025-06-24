@@ -26,14 +26,14 @@
             "id": "daa81bfae98457f8",
             "type": "leaf",
             "state": {
-              "type": "markwhen-view",
+              "type": "markdown",
               "state": {
-                "file": "Планирование проектов.49.mw.mw",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
-              "icon": "markwhen-icon",
-              "title": "Планирование проектов.49.mw.mw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -219,7 +219,7 @@
   },
   "active": "daa81bfae98457f8",
   "lastOpenFiles": [
-    "README.md",
-    "Планирование проектов.49.mw.mw"
+    "Планирование проектов.49.mw.mw",
+    "README.md"
   ]
 }
