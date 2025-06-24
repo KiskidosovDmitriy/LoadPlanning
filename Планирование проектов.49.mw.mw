@@ -1,16 +1,90 @@
-2025/2030-11: Пить пиво
-2025-07/2025: Сдек
+group Дима
+group Виталя
+2025-07/2026: фывфывыфв
+2025-07/2026-06: new event
+group  Вика
+2025-07/2026: фывфывыфв
+2025-07/2026-07: new event
+endGroup
+group  Саша Воронов
+2025-09/2025-11: new event 
+2025-07/2025-08: cалам
+2025-07: new event
+endGroup
+group  Даня
+2025-09/2027-11: new event 
+2025-07/2025-08: фывфывыфв
+endGroup
+endGroup
+endGroup
 
-group  Саня
-2025-07/2026-09: new event
-2025-07/2026-01: new event
+group Саша
+group Амир
+2025-07/2026: фывфывыфв
+2025-07/2026-06: new event
+group  Настя
+2025-07/2026: фывфывыфв
+2025-07/2026-07: new event
+endGroup
+group  Артур
+2025-09/2026-06: new event 
 2025-07/2025-08: фывфывыфв
 2025-07: new event
 endGroup
+group  Артем
+2025-09/2027-11: new event 
+2025-07/2025-08: фывфывыфв
+endGroup
+endGroup
+endGroup
 
-group Дима
-2025-09/2026-06: Салам
+group Соня
+group Катя
+2025-07/2026: фывфывыфв
+2025-07/2026-06: new event
+group  Нина
+2025-07/2026: фывфывыфв
+2025-07/2026-07: new event
+endGroup
+group  Юля
+2025-09/2026-06: new event 
+2025-07/2025-08: фывфывыфв
+2025-07: new event
+endGroup
+endGroup
+endGroup
+
+endGroup
+
+group ИБ
+2025-09-17/2025-10-19: new event
+group Лиза
+2025-09-16T21:00:00.000Z - 2027-01-31T21:00:00.000Z: new event
+endGroup
+group Надя
+2025-09-16T21:00:00.000Z - 2026-12-31T21:00:00.000Z: new event
+endGroup
+endGroup
+
+group Тех. Писы
+2025-09-17/2025-10-19: new event
+group Лена
+2025-09-16T21:00:00.000Z - 2027-01-31T21:00:00.000Z: new event
+endGroup
+group Аня
+2025-09-16T21:00:00.000Z - 2026-12-31T21:00:00.000Z: new event
+endGroup
+group Полина
+2025-09-16T21:00:00.000Z - 2026-12-31T21:00:00.000Z: new event
+endGroup
+
+endGroup
+
+group Очередь проектов
+2025-10/2026-09: Салам
 title: Проект А 
 description: Задействован на 40 чч
-2025-09/2026-06: Еще проектик фывфывфв
+2025-11/2026-11: Еще проектик фывфывфв
+2026-10/2027-08: тут тоже будет проект
+
 endGroup
