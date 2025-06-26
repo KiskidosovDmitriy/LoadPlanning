@@ -6,7 +6,7 @@
       {
         "id": "bc5fe91b6bdb5aca",
         "type": "tabs",
-        "dimension": 60.20710059171598,
+        "dimension": 29.142011834319526,
         "children": [
           {
             "id": "ffc1f7400b0ae804",
@@ -26,14 +26,14 @@
             "id": "daa81bfae98457f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "markwhen-view",
               "state": {
-                "file": "Инструкция по установке.md",
+                "file": "Планирование проектов.49.mw.mw",
                 "mode": "source",
                 "source": false
               },
-              "icon": "lucide-file",
-              "title": "Инструкция по установке"
+              "icon": "markwhen-icon",
+              "title": "Планирование проектов.49.mw.mw"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "fa48dad79d6ed3dd",
         "type": "tabs",
-        "dimension": 39.79289940828402,
+        "dimension": 70.85798816568047,
         "children": [
           {
             "id": "4eaf4477289907d3",
@@ -219,10 +219,10 @@
   },
   "active": "daa81bfae98457f8",
   "lastOpenFiles": [
+    "Инструкция по установке.md",
     "Планирование проектов.49.mw.mw",
     "Pasted image 20250624171052.png",
     "Pasted image 20250624171057.png",
-    "Инструкция по установке.md",
     "README.md"
   ]
 }
