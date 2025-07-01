@@ -1,21 +1,32 @@
-group Дима
+title: Project plan  
+#Project1: 
+#Danielle: yellow
+#dima: green
+#Sasha: blue
+#TP : pink 
+#Economics: #abc // hex color
 
+group Dima #dima
 group Виталя
 2025-06/2025-07: ЦБ ИБ
+#Danielle: yellow
 2025-07/2025-09-25: Не ЦБ
-2025-07-15/2025-09: Благосостояние
+#dima
+2025-07-18/2025-09: Благосостояние
+#Danielle: red
 endGroup
 
-group  Вика
+group  Вика #a13bbb
 2025-06/2025-07: Новиком
 2025-06/2025-08: ГГЭ
-2025-09/2025-10: Глонас
+2025-09/2025-10: Глонас 
 2025-06/2025-07: РТК ЧТЗ
 2025-06/2025-08: Проект по доступам
 endGroup
 
-group  Саша Воронов
+group  Саша Воронов #a13bbb
 2025-05/2025-09: ВТБ
+#Sasha
 2025-06/2025-09: CTI проектик
 endGroup
 
@@ -78,7 +89,7 @@ group Надя
 endGroup
 endGroup
 
-group Тех. Писы
+group Тех. Писы #TP
 2025-09-17/2025-10-19: new event
 group Лена
 2025-09-16T21:00:00.000Z - 2027-01-31T21:00:00.000Z: new event
