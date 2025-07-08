@@ -6,7 +6,7 @@
       {
         "id": "bc5fe91b6bdb5aca",
         "type": "tabs",
-        "dimension": 44.990723562152134,
+        "dimension": 41.65120593692022,
         "children": [
           {
             "id": "ffc1f7400b0ae804",
@@ -41,7 +41,7 @@
       {
         "id": "fa48dad79d6ed3dd",
         "type": "tabs",
-        "dimension": 55.009276437847866,
+        "dimension": 58.34879406307978,
         "children": [
           {
             "id": "4eaf4477289907d3",
@@ -216,7 +216,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4eaf4477289907d3",
+  "active": "a54f4e882835de7a",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
