@@ -36,7 +36,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa48dad79d6ed3dd",
@@ -217,10 +218,10 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "ffc1f7400b0ae804",
+  "active": "daa81bfae98457f8",
   "lastOpenFiles": [
-    "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
+    "README.md",
     "Инструкция по установке.md",
     "Pasted image 20250624171052.png",
     "Pasted image 20250624171057.png"
