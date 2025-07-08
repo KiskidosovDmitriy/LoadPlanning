@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vitalia",
+                "query": "tag:#926EAE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "ffc1f7400b0ae804",
+  "active": "ddb012049e57a52b",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
