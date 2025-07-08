@@ -3,20 +3,21 @@ title: Project plans
 #Danielle: yellow
 #dima: green
 #Sasha: blue
+#zopa: red
 #TP : pink 
+#vitala: #926EAE
 #Economics: #abc // hex color
 
 group Dima #dima
-group Виталя
-2025-06/2025-07: ЦБ ИБ
-#Danielle: yellow
+
+group Виталя tag:#vitala
+2025-06/2025-07: ЦБ ИБ #zopa
 2025-07/2025-09-25: Не ЦБ
-#dima
-2025-07-18/2025-09: Благосостояние
-#Danielle: red
+2025-07-18/2025-09: Благосостояние #zopa
+
 endGroup
 
-group  Вика #a13bbb
+group  Вика #ffc0cb
 2025-06/2025-07: Новиком
 2025-06/2025-08: ГГЭ
 2025-09/2025-10: Глонас 
@@ -26,13 +27,13 @@ group  Вика #a13bbb
 endGroup
 
 group  Саша Воронов #a13bbb
-2025-05/2025-09: ВТБ
-#Sasha
+2025-05/2025-11: ВТБ
+#zopa
 2025-06/2025-09: CTI проектик
 endGroup
 
 group  Даня
-2025-05/2025-09: ВТБ
+2025-05/2025-11: ВТБ #zopa
 2025-06/2025-08: Проект по доступам
 endGroup
 endGroup
