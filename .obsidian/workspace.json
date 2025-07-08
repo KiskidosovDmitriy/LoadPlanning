@@ -35,23 +35,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "73f152ce0b432797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa48dad79d6ed3dd",
@@ -232,10 +217,10 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "daa81bfae98457f8",
+  "active": "ffc1f7400b0ae804",
   "lastOpenFiles": [
-    "Планирование проектов.49.mw.mw.mw.mw",
     "README.md",
+    "Планирование проектов.49.mw.mw.mw.mw",
     "conflict-files-obsidian-git.md",
     "Инструкция по установке.md",
     "Pasted image 20250624171052.png",
