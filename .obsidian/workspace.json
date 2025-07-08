@@ -6,7 +6,7 @@
       {
         "id": "bc5fe91b6bdb5aca",
         "type": "tabs",
-        "dimension": 41.65120593692022,
+        "dimension": 36.3079615048119,
         "children": [
           {
             "id": "ffc1f7400b0ae804",
@@ -41,7 +41,7 @@
       {
         "id": "fa48dad79d6ed3dd",
         "type": "tabs",
-        "dimension": 58.34879406307978,
+        "dimension": 63.6920384951881,
         "children": [
           {
             "id": "4eaf4477289907d3",
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#926EAE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "c1444bea165c282b",
@@ -217,7 +217,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "ddb012049e57a52b",
+  "active": "ffc1f7400b0ae804",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
