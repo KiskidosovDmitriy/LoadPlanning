@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "9199023a6cf33299",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.10"
-            }
-          },
-          {
             "id": "daa81bfae98457f8",
             "type": "leaf",
             "state": {
@@ -48,8 +36,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa48dad79d6ed3dd",
@@ -231,7 +218,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "9199023a6cf33299",
+  "active": "4eaf4477289907d3",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
