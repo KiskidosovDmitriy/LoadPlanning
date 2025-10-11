@@ -56,8 +56,21 @@
               "icon": "markwhen-icon",
               "title": "Планирование проектов.49.mw.mw.mw.mw"
             }
+          },
+          {
+            "id": "292b4696ec3b7665",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +231,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4eaf4477289907d3",
+  "active": "292b4696ec3b7665",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
