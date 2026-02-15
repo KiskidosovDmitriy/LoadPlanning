@@ -68,9 +68,21 @@
               "icon": "lucide-book-up",
               "title": "примечания к выпуску 1.10.3"
             }
+          },
+          {
+            "id": "79995602003c884d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4dedbed5029f46a7",
+  "active": "79995602003c884d",
   "lastOpenFiles": [
     "README.md",
     "Планирование проектов.49.mw.mw.mw.mw",
